@@ -58,7 +58,7 @@ def print_solutions(solutions, num):
 
 
 # Tamaño del tablero
-num = 6
+num = 4
 soluciones_finales=[]
 
 for _ in range(num):
